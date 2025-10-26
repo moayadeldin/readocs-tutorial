@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DeepTune'
+copyright = '2025, Moayadeldin Hussain'
+author = 'Moayadeldin Hussain'
 
 release = '0.1'
 version = '0.1.0'
