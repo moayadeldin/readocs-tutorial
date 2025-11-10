@@ -6,8 +6,8 @@ project = 'DeepTune'
 copyright = '2025, Moayadeldin Hussain'
 author = 'Moayadeldin Hussain'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.1.0'
+version = '1.1.0'
 
 # -- General configuration
 
@@ -26,6 +26,7 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
 
 # -- Options for HTML output
 
